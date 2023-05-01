@@ -89,7 +89,7 @@ export default function Home() {
               <ProjectItem name="react" link="https://react-crud-frontend-lime.vercel.app/" image="react-node" title="React-Node-Crud" des="This website is a crud, where you can get, delete, create and edit images. Before this, you have to authenticate yourself."/>
               <ProjectItem name="vue" link="https://vue-crud-client.vercel.app/" image="vue-python" title="Vue-Django-Crud" des="This website is a crud, where you can get, delete, create and edit images. Before this, you have to authenticate yourself."/>
               <ProjectItem name="angular" link="https://angular-crud-front.vercel.app/" image="angular-spring" title="Angular-Spring-Crud" des="This website is a crud, where you can get, delete, create and edit images. Before this, you have to authenticate yourself."/>
-              <ProjectItem name="react-native" link="https://www.mediafire.com/file/cu16skjjsml6kua/application-786c033f-1fe5-4ee0-ac12-0482c00084ee.apk/file" image="random-chat" title="Random Chat (mobile)" des="This page is a chat room, where you can talk with random people. (In this page you can use commands like: /commands)."/>
+              <ProjectItem name="react-native" link="https://www.mediafire.com/file/cu16skjjsml6kua/application-786c033f-1fe5-4ee0-ac12-0482c00084ee.apk/file" image="random-chat" title="Random Chat (mobile)" des="This app is a chat room, where you can talk with random people. (In this app you can use commands like: /commands)."/>
            
 
               <ProjectItem name="koala" link="https://koala-chat.vercel.app/" image="koala" title="Koala Chat" des="This page is a network, where you will have your profile, followers, following, a global chat, private chat rooms and some other things."/>
