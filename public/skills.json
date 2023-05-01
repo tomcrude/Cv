@@ -1,0 +1,128 @@
+[
+    {
+        "text": "HTML",
+        "color": "rgb(255, 84, 21)"
+    },
+    {
+        "text": "CSS",
+        "color": "rgb(0, 83, 249)"
+    },
+    {
+        "text": "Javascript",
+        "color": "rgb(25, 25, 25)"
+    },
+    {
+        "text": "Bootstrap",
+        "color": "rgb(105, 0, 204)"
+    },
+    {
+        "text": "React",
+        "color": "rgb(34, 34, 34)"
+    },
+    {
+        "text": "Next.JS",
+        "color": "rgb(5, 5, 5)"
+    },
+    {
+        "text": "Adobe XD",
+        "color": "rgb(71, 1, 55)"
+    },
+    {
+        "text": "Redux",
+        "color": "rgb(34, 34, 34)"
+    }, 
+    {
+        "text": "Basic Rules UX",
+        "color": "rgb(240, 93, 110)"
+    },
+    {
+        "text": "Typescript",
+        "color": "rgb(25, 25, 25)"
+    },
+    {
+        "text": "Material UI",
+        "color": "rgb(0, 127, 255)"
+    },
+    {
+        "text": "Angular",
+        "color": "rgb(220,0,0)"
+    },
+    {
+        "text": "Angular Material",
+        "color": "rgb(255,167,38)"
+    },
+    {
+        "text": "Vue",
+        "color": "rgb(40, 230, 84)"
+    },
+    {
+        "text": "React Native",
+        "color": "rgb(34, 34, 34)"
+    },
+    {
+        "text": "MySQL",
+        "color": "rgb(64, 126, 163)"
+    },
+    {
+        "text": "OracleSQL",
+        "color": "rgb(255, 0, 0)"
+    },
+    {
+        "text": "AWS",
+        "color": "rgb(247, 148, 0)"
+    },
+    {
+        "text": "Heroku",
+        "color": "rgb(67, 0, 150)"
+    },
+    {
+        "text": "Git-GitHub",
+        "color": "rgb(0, 0, 0)"
+    },
+    
+    {
+        "text": "NPM",
+        "color": "rgb(227,46, 55)"
+    },
+    {
+        "text": "Node.JS",
+        "color": "rgb(83, 158, 67)"
+    },
+    {
+        "text": "Express",
+        "color": "rgb(5, 5, 5)"
+    },
+    {
+        "text": "Python",
+        "color": "rgb(72, 154, 255)"
+    },
+    {
+        "text": "Django",
+        "color": "rgb(43, 169, 119)"
+    },
+    {
+        "text": "Java",
+        "color": "rgb(192, 35, 35)"
+    },
+    {
+        "text": "Spring Boot",
+        "color": "rgb(65, 170, 38)"
+    },
+    {
+        "text": "MongoDB",
+        "color": "rgb(19,170,82)"
+    },
+    {
+        "text": "PostgreSQL",
+        "color": "rgb(49,97,146)"
+    }
+    ,
+    {
+        "text": "Firebase",
+        "color": "rgb(16, 139, 227)"
+    },
+    {
+        "text": "JWT",
+        "color": "rgb(191, 124, 217)"
+    }
+]

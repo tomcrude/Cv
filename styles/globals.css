@@ -1,0 +1,46 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: sans-serif !important;
+    background: linear-gradient(90deg, rgba(28,22,54,1) 0%, rgba(37,29,70,1) 50%, rgba(28,22,54,1) 118%);
+overflow-x: hidden;
+  }
+
+
+
+p,div p{
+  color: rgb(128,162,216);
+  letter-spacing: 1.5px !important;
+}
+
+h2{
+  color: rgb(232,117,246)
+}
+
+a{
+  text-decoration: none;
+}
+
+a:hover{
+  text-decoration: none;
+  color: rgb(1,247,153)
+}
+
+p{
+  color: rgb(105, 0, 204);
+}
+
+.disabled{
+  display: none
+}
+
+.link{
+  font-size: 16px;
+}
+
+@media (max-width: 600px) {
+  .link{
+    font-size: 10px;
+  }
+}
